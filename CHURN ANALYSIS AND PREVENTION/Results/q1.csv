@@ -1,0 +1,2 @@
+total_customers,active_customers,cancelled_customers,paused_customers,churn_rate_percent
+20,12,4,4,20.0

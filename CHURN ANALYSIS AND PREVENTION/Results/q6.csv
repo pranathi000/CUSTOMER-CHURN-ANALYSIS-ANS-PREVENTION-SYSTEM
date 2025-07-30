@@ -1,0 +1,19 @@
+customer_id,first_name,last_name,status,days_since_last_order,total_support_tickets,cancellation_requests,total_spent,intervention_type,estimated_campaign_cost,priority_level
+2,Michael,Chen,Cancelled,813,9,6,800.10,"Executive Retention Call",200.00,URGENT
+4,David,Thompson,Cancelled,874,4,2,322.10,"Executive Retention Call",200.00,URGENT
+9,Lisa,Garcia,Active,752,6,0,546.30,"Personal Outreach + 30% Discount",150.00,HIGH
+3,Jessica,Williams,Active,579,6,0,409.00,"Personal Outreach + 30% Discount",150.00,HIGH
+1,Sarah,Johnson,Active,716,7,0,349.85,"Personal Outreach + 30% Discount",150.00,HIGH
+6,Ryan,Brown,Active,783,4,0,242.30,"Personal Outreach + 30% Discount",150.00,HIGH
+19,Michelle,Clark,Active,886,2,0,181.05,"Email Campaign + 20% Discount",75.00,HIGH
+16,Matthew,Harris,Active,838,2,0,172.90,"Email Campaign + 20% Discount",75.00,HIGH
+13,Rachel,Thomas,Active,823,2,0,161.80,"Email Campaign + 20% Discount",75.00,HIGH
+10,James,Martinez,Active,757,0,0,122.65,"Email Campaign + 20% Discount",75.00,HIGH
+8,Kevin,Wilson,Paused,811,0,0,115.15,"Email Campaign + 20% Discount",75.00,HIGH
+7,Amanda,Miller,Active,734,0,0,107.65,"Email Campaign + 20% Discount",75.00,HIGH
+5,Emily,Davis,Paused,770,0,0,60.15,"Email Campaign + 20% Discount",75.00,HIGH
+18,Joshua,Lee,Active,854,0,0,56.40,"Email Campaign + 20% Discount",75.00,HIGH
+12,Christopher,Taylor,Active,788,0,0,33.80,"Email Campaign + 20% Discount",75.00,HIGH
+15,Ashley,White,Active,821,0,0,29.90,"Email Campaign + 20% Discount",75.00,HIGH
+20,Brandon,Lewis,Paused,813,0,0,27.85,"Email Campaign + 20% Discount",75.00,HIGH
+14,Daniel,Jackson,Paused,NULL,0,0,0.00,"Re-engagement Campaign",50.00,LOW

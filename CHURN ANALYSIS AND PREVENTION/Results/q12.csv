@@ -1,0 +1,17 @@
+customer_id,first_name,last_name,status,days_since_last_order,annual_customer_value,campaign_type,campaign_cost,expected_success_rate,potential_revenue_saved
+9,Lisa,Garcia,Active,752,900.00,"Executive Retention Call",200.00,60.0,540.0000
+13,Rachel,Thomas,Active,823,900.00,"Executive Retention Call",200.00,60.0,540.0000
+16,Matthew,Harris,Active,838,900.00,"Executive Retention Call",200.00,60.0,540.0000
+19,Michelle,Clark,Active,886,900.00,"Executive Retention Call",200.00,60.0,540.0000
+3,Jessica,Williams,Active,579,540.00,"Executive Retention Call",200.00,60.0,324.0000
+6,Ryan,Brown,Active,783,540.00,"Executive Retention Call",200.00,60.0,324.0000
+8,Kevin,Wilson,Paused,811,540.00,"Executive Retention Call",200.00,60.0,324.0000
+18,Joshua,Lee,Active,854,540.00,"Executive Retention Call",200.00,60.0,324.0000
+14,Daniel,Jackson,Paused,NULL,540.00,"Re-engagement Campaign",50.00,40.0,216.0000
+1,Sarah,Johnson,Active,716,300.00,"Executive Retention Call",200.00,60.0,180.0000
+5,Emily,Davis,Paused,770,300.00,"Executive Retention Call",200.00,60.0,180.0000
+7,Amanda,Miller,Active,734,300.00,"Executive Retention Call",200.00,60.0,180.0000
+10,James,Martinez,Active,757,300.00,"Executive Retention Call",200.00,60.0,180.0000
+12,Christopher,Taylor,Active,788,300.00,"Executive Retention Call",200.00,60.0,180.0000
+15,Ashley,White,Active,821,300.00,"Executive Retention Call",200.00,60.0,180.0000
+20,Brandon,Lewis,Paused,813,300.00,"Executive Retention Call",200.00,60.0,180.0000

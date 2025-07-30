@@ -1,0 +1,5 @@
+satisfaction_level,customer_count,churned_customers,churn_rate_percent,avg_satisfaction_score,total_cancellation_requests
+"Poor (1.0-2.9)",3,2,66.7,1.78,3
+"No Support History",11,2,18.2,0.00,0
+"Excellent (4.5+)",3,0,0.0,5.00,0
+"Good (4.0-4.4)",3,0,0.0,4.00,0
